@@ -1,0 +1,15 @@
+ let x=10;
+ let y=5;
+ let z=8;
+ x+=5;
+ console.log(x);
+ x-=3;
+ console.log(x);
+  x*=2;
+  console.log(x);
+  y/=4;
+  console.log(y);
+  z%=3;
+  console.log(z);
+  x**=2;
+  console.log(x);
